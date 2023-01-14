@@ -10,6 +10,8 @@ This Free Template is sponsored by [Web3Templates](https://web3templates.com)
 
 ### [Download Astroship Template](https://web3templates.com/templates/astroship-starter-website-template-for-astro)
 
+### More useful Content and dev tutorial [Hindi Tech Bate](Hinditechbate.in)
+
 ## Deploy on Vercel
 
 Click the below link to deploy this template on Vercel
