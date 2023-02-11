@@ -12,6 +12,8 @@ This Free Template is sponsored by [Web3Templates](https://web3templates.com)
 
 ### More useful Content and dev tutorial [Hindi Tech Bate](https://hinditechbate.in)
 
+### More useful Content and Python Advance tutorial [Python](https://technicbate.blogspot.com)
+
 ## Deploy on Vercel
 
 Click the below link to deploy this template on Vercel
